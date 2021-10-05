@@ -27,6 +27,20 @@ d888b   `8888>    88>    :8888>  X8L  ^""`  X8x.  8888X  8888X  !888>
 
 ## Recommended Modules
 
+### Editor
+
+It is recommended to edit this project using VSCode
+
+#### VSCode Extensions
+
+The following VSCode Extensions are recomended
+
+- material-icon-theme
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
+- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) -[Typescript React code snippets](https://marketplace.visualstudio.com/items?itemName=infeng.vscode-react-typescript)
+
 ## Installation
 
 ## Configuration
